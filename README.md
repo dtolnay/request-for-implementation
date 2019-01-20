@@ -86,6 +86,12 @@ when a library has accomplished that design.
 [default-serde-origin]: https://github.com/serde-rs/serde/issues/1416
 [default-serde-design]: https://github.com/dtolnay/request-for-implementation/issues/4
 
+- [ ] Serde format for in situ JSON deserialization<br>
+  [\[Origin\]][insitu-origin] -- [\[Design\]][insitu-design]
+
+[insitu-origin]: https://github.com/serde-rs/json/issues/318
+[insitu-design]: https://github.com/dtolnay/request-for-implementation/issues/7
+
 <br>
 
 # Procedural macros, Syn
