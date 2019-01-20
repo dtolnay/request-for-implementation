@@ -72,6 +72,12 @@ when a library has accomplished that design.
 [serde-tuple-origin]: https://github.com/serde-rs/serde/issues/637
 [serde-tuple-design]: https://github.com/dtolnay/request-for-implementation/issues/3
 
+- [ ] Derive macro to derive Default from Serde default attributes<br>
+  [\[Origin\]][default-serde-origin] -- [\[Design\]][default-serde-design]
+
+[default-serde-origin]: https://github.com/serde-rs/serde/issues/1416
+[default-serde-design]: https://github.com/dtolnay/request-for-implementation/issues/4
+
 <br>
 
 # Procedural macros, Syn
