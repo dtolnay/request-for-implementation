@@ -15,3 +15,15 @@ filed on that project's issue tracker rather than being listed here.
 Many of these would make neat projects for a Rust novice.
 
 [Rust]: https://www.rust-lang.org/
+
+<br>
+
+### Contributing
+
+To work on an idea, click through on one of the "Design" links to read more
+about the idea and coordinate as you make progress on the library.
+
+To add a project idea, please file an issue with enough detail so that anyone
+interested can understand the design you have in mind. Include links to relevant
+background material if possible. Then send a PR adding a link to your issue.
+Feel free to add a new heading if none of the existing ones apply to your idea.
