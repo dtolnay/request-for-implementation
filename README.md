@@ -59,8 +59,7 @@ when a library has accomplished that design.
 TEMPLATE:
 
 <table><tr><td><ul><li></li></ul></td><td>
-description description description description description description
-<br>
+description description description description description description<br>
 <a href="...">[Origin]</a>
 —
 <a href="...">[Design]</a>
@@ -73,14 +72,12 @@ description description description description description description
 
 <table><tr><td><ul><li></li></ul></td><td>
 Library for a Cargo subcommand to find components installed under a different
-toolchain
-<br>
+toolchain<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/5">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Library to format and paginate tabular output
-<br>
+Library to format and paginate tabular output<br>
 <a href="https://github.com/dtolnay/cargo-llvm-lines/issues/5">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/15">[Design]</a>
@@ -94,62 +91,54 @@ Library to format and paginate tabular output
 <table><tr><td><ul><li></li></ul></td><td>
 A <code>dtd</code> macro that you could point at an
 <a href="https://en.wikipedia.org/wiki/Document_type_definition">XML DTD file</a>
-and have it generate struct definitions for you
-<br>
+and have it generate struct definitions for you<br>
 <a href="https://twitter.com/chriskrycho/status/1085537088647249920">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/2">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Derive macros to serialize and deserialize struct as an array of values
-<br>
+Derive macros to serialize and deserialize struct as an array of values<br>
 <a href="https://github.com/serde-rs/serde/issues/637">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/3">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Derive macro to derive Default from Serde default attributes
-<br>
+Derive macro to derive Default from Serde default attributes<br>
 <a href="https://github.com/serde-rs/serde/issues/1416">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/4">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Serde format for in situ JSON deserialization
-<br>
+Serde format for in situ JSON deserialization<br>
 <a href="https://github.com/serde-rs/json/issues/318">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/7">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Minimalist YAML parser with support for borrowed string slices
-<br>
+Minimalist YAML parser with support for borrowed string slices<br>
 <a href="https://github.com/dtolnay/serde-yaml/issues/94">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/9">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Miniserde derive macro that supports enums
-<br>
+Miniserde derive macro that supports enums<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/10">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Miniserde utilities library, like adapters for Display and FromStr
-<br>
+Miniserde utilities library, like adapters for Display and FromStr<br>
 <a href="https://github.com/dtolnay/miniserde/issues/3">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/11">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Macro to serialize and deserialize trait object using internal type tag
-<br>
+Macro to serialize and deserialize trait object using internal type tag<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/14">[Design]</a>
 </td></tr></table>
 
@@ -159,8 +148,7 @@ Macro to serialize and deserialize trait object using internal type tag
 # [:steam_locomotive: Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Query syntax and extractor for syntax tree elements
-<br>
+Query syntax and extractor for syntax tree elements<br>
 <a href="https://github.com/dtolnay/cargo-expand/issues/8">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/1">[Design]</a>
@@ -168,8 +156,7 @@ Query syntax and extractor for syntax tree elements
 
 <table><tr><td><ul><li></li></ul></td><td>
 Library to inline out-of-line <code>mod</code> items and resolve <code>#[path =
-"..."]</code>
-<br>
+"..."]</code><br>
 <a href="https://github.com/dpc/crev/issues/89">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/6">[Design]</a>
@@ -178,14 +165,12 @@ Library to inline out-of-line <code>mod</code> items and resolve <code>#[path =
 <table><tr><td><ul><li></li></ul></td><td>
 Procedural macro reimplementation of
 <a href="https://github.com/dtolnay/quote"><code>quote!</code></a>
-to resolve some longstanding limitations
-<br>
+to resolve some longstanding limitations<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/8">[Design]</a>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Attribute macro to make a trait boxed clonable
-<br>
+Attribute macro to make a trait boxed clonable<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/13">[Design]</a>
 </td></tr></table>
 
@@ -195,8 +180,8 @@ Attribute macro to make a trait boxed clonable
 # [:mountain_cableway: Visualization](#visualization)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Minimal API for generating color scheme for a chart that needs <i>n</i> colors
-<br>
+Minimal API for generating color scheme for a chart that needs <i>n</i>
+colors<br>
 <a href="https://github.com/dtolnay/cargo-tally/issues/10">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/12">[Design]</a>
