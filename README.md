@@ -55,6 +55,14 @@ when a library has accomplished that design.
 
 <a name="the-list"></a>
 
+# Command line
+
+- [ ] Library for a Cargo subcommand to find components installed under a
+  different toolchain<br>
+  [\[Design\]][find-component-design]
+
+[find-component-design]: https://github.com/dtolnay/request-for-implementation/issues/5
+
 # De/serialization
 
 - [ ] A `dtd` macro that you could point at an [XML DTD file] and have it
