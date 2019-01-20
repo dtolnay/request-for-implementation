@@ -78,6 +78,14 @@ toolchain
 <a href="https://github.com/dtolnay/request-for-implementation/issues/5">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Library to format and paginate tabular output
+<br>
+<a href="https://github.com/dtolnay/cargo-llvm-lines/issues/5">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/15">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="de-serialization"></a>
