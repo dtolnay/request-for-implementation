@@ -65,6 +65,13 @@ when a library has accomplished that design.
 [dtd-origin]: https://twitter.com/chriskrycho/status/1085537088647249920
 [dtd-design]: https://github.com/dtolnay/request-for-implementation/issues/2
 
+- [ ] Derive macros to serialize and deserialize struct as an array of
+  values<br>
+  [\[Origin\]][serde-tuple-origin] -- [\[Design\]][serde-tuple-design]
+
+[serde-tuple-origin]: https://github.com/serde-rs/serde/issues/637
+[serde-tuple-design]: https://github.com/dtolnay/request-for-implementation/issues/3
+
 <br>
 
 # Procedural macros, Syn
