@@ -125,6 +125,12 @@ Minimalist YAML parser with support for borrowed string slices
 <a href="https://github.com/dtolnay/request-for-implementation/issues/9">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Miniserde derive macro that supports enums
+<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/10">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="procedural-macros"></a>
