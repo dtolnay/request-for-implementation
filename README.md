@@ -52,6 +52,18 @@ when a library has accomplished that design.
 
 <br><br>
 
+# De/serialization
+
+- [ ] A `dtd` macro that you could point at an [XML DTD file] and have it
+  generate struct definitions for you<br>
+  [\[Origin\]][dtd-origin] -- [\[Design\]][dtd-design]
+
+[XML DTD file]: https://en.wikipedia.org/wiki/Document_type_definition
+[dtd-origin]: https://twitter.com/chriskrycho/status/1085537088647249920
+[dtd-design]: https://github.com/dtolnay/request-for-implementation/issues/2
+
+<br>
+
 # Procedural macros, Syn
 
 - [ ] Query syntax and extractor for syntax tree elements<br>
