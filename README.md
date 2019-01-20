@@ -2,6 +2,7 @@ Crates that don't exist, but should
 ===================================
 
 A collection of [Rust] project ideas.
+[*Skip the introduction and jump to the list*](#the-list)
 
 These are bite-sized ideas for which someone already has a mostly clear design
 in mind. They are waiting on an interested library developer to carry through
@@ -51,6 +52,8 @@ when a library has accomplished that design.
 [not-yet-awesome]: https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
 
 <br><br>
+
+<a name="the-list"></a>
 
 # De/serialization
 
