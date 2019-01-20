@@ -57,54 +57,68 @@ when a library has accomplished that design.
 
 # Command line
 
-- [ ] Library for a Cargo subcommand to find components installed under a
-  different toolchain<br>
-  [\[Design\]][find-component-design]
+<table><tr><td><ul><li></li></ul></td><td>
+Library for a Cargo subcommand to find components installed under a different
+toolchain
+<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/5">[Design]</a>
+</td></tr></table>
 
-[find-component-design]: https://github.com/dtolnay/request-for-implementation/issues/5
+<br>
 
 # De/serialization
 
-- [ ] A `dtd` macro that you could point at an [XML DTD file] and have it
-  generate struct definitions for you<br>
-  [\[Origin\]][dtd-origin] -- [\[Design\]][dtd-design]
+<table><tr><td><ul><li></li></ul></td><td>
+A <code>dtd</code> macro that you could point at an
+<a href="https://en.wikipedia.org/wiki/Document_type_definition">XML DTD file</a>
+and have it generate struct definitions for you
+<br>
+<a href="https://twitter.com/chriskrycho/status/1085537088647249920">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/2">[Design]</a>
+</td></tr></table>
 
-[XML DTD file]: https://en.wikipedia.org/wiki/Document_type_definition
-[dtd-origin]: https://twitter.com/chriskrycho/status/1085537088647249920
-[dtd-design]: https://github.com/dtolnay/request-for-implementation/issues/2
+<table><tr><td><ul><li></li></ul></td><td>
+Derive macros to serialize and deserialize struct as an array of values
+<br>
+<a href="https://github.com/serde-rs/serde/issues/637">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/3">[Design]</a>
+</td></tr></table>
 
-- [ ] Derive macros to serialize and deserialize struct as an array of
-  values<br>
-  [\[Origin\]][serde-tuple-origin] -- [\[Design\]][serde-tuple-design]
+<table><tr><td><ul><li></li></ul></td><td>
+Derive macro to derive Default from Serde default attributes
+<br>
+<a href="https://github.com/serde-rs/serde/issues/1416">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/4">[Design]</a>
+</td></tr></table>
 
-[serde-tuple-origin]: https://github.com/serde-rs/serde/issues/637
-[serde-tuple-design]: https://github.com/dtolnay/request-for-implementation/issues/3
-
-- [ ] Derive macro to derive Default from Serde default attributes<br>
-  [\[Origin\]][default-serde-origin] -- [\[Design\]][default-serde-design]
-
-[default-serde-origin]: https://github.com/serde-rs/serde/issues/1416
-[default-serde-design]: https://github.com/dtolnay/request-for-implementation/issues/4
-
-- [ ] Serde format for in situ JSON deserialization<br>
-  [\[Origin\]][insitu-origin] -- [\[Design\]][insitu-design]
-
-[insitu-origin]: https://github.com/serde-rs/json/issues/318
-[insitu-design]: https://github.com/dtolnay/request-for-implementation/issues/7
+<table><tr><td><ul><li></li></ul></td><td>
+Serde format for in situ JSON deserialization
+<br>
+<a href="https://github.com/serde-rs/json/issues/318">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/7">[Design]</a>
+</td></tr></table>
 
 <br>
 
 # Procedural macros, Syn
 
-- [ ] Query syntax and extractor for syntax tree elements<br>
-  [\[Origin\]][rustq-origin] -- [\[Design\]][rustq-design]
+<table><tr><td><ul><li></li></ul></td><td>
+Query syntax and extractor for syntax tree elements
+<br>
+<a href="https://github.com/dtolnay/cargo-expand/issues/8">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/1">[Design]</a>
+</td></tr></table>
 
-[rustq-origin]: https://github.com/dtolnay/cargo-expand/issues/8
-[rustq-design]: https://github.com/dtolnay/request-for-implementation/issues/1
-
-- [ ] Library to inline out-of-line `mod` items and resolve `#[path =
-  "..."]`<br>
-  [\[Origin\]][expand0-origin] -- [\[Design\]][expand0-design]
-
-[expand0-origin]: https://github.com/dpc/crev/issues/89
-[expand0-design]: https://github.com/dtolnay/request-for-implementation/issues/6
+<table><tr><td><ul><li></li></ul></td><td>
+Library to inline out-of-line <code>mod</code> items and resolve <code>#[path =
+"..."]</code>
+<br>
+<a href="https://github.com/dpc/crev/issues/89">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/6">[Design]</a>
+</td></tr></table>
