@@ -49,3 +49,13 @@ design mostly already exists and can be concisely described. It should be clear
 when a library has accomplished that design.
 
 [not-yet-awesome]: https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
+
+<br><br>
+
+# Procedural macros, Syn
+
+- [ ] Query syntax and extractor for syntax tree elements<br>
+  [\[Origin\]][rustq-origin] -- [\[Design\]][rustq-design]
+
+[rustq-origin]: https://github.com/dtolnay/cargo-expand/issues/8
+[rustq-design]: https://github.com/dtolnay/request-for-implementation/issues/1
