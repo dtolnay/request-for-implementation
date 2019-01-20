@@ -68,7 +68,8 @@ description description description description description description
 
 -->
 
-# :tractor: Command line
+<a name="command-line"></a>
+# [:tractor: Command line](#command-line)
 
 <table><tr><td><ul><li></li></ul></td><td>
 Library for a Cargo subcommand to find components installed under a different
@@ -79,7 +80,8 @@ toolchain
 
 <br>
 
-# :bullettrain_side: De/serialization
+<a name="de-serialization"></a>
+# [:bullettrain_side: De/serialization](#de-serialization)
 
 <table><tr><td><ul><li></li></ul></td><td>
 A <code>dtd</code> macro that you could point at an
@@ -117,7 +119,8 @@ Serde format for in situ JSON deserialization
 
 <br>
 
-# :steam_locomotive: Procedural macros, Syn
+<a name="procedural-macros"></a>
+# [:steam_locomotive: Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
 Query syntax and extractor for syntax tree elements
