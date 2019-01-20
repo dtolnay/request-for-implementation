@@ -131,6 +131,14 @@ Miniserde derive macro that supports enums
 <a href="https://github.com/dtolnay/request-for-implementation/issues/10">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Miniserde utilities library, like adapters for Display and FromStr
+<br>
+<a href="https://github.com/dtolnay/miniserde/issues/3">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/11">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="procedural-macros"></a>
