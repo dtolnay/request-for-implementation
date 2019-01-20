@@ -117,6 +117,14 @@ Serde format for in situ JSON deserialization
 <a href="https://github.com/dtolnay/request-for-implementation/issues/7">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Minimalist YAML parser with support for borrowed string slices
+<br>
+<a href="https://github.com/dtolnay/serde-yaml/issues/94">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/9">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="procedural-macros"></a>
