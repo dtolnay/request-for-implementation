@@ -95,3 +95,10 @@ when a library has accomplished that design.
 
 [rustq-origin]: https://github.com/dtolnay/cargo-expand/issues/8
 [rustq-design]: https://github.com/dtolnay/request-for-implementation/issues/1
+
+- [ ] Library to inline out-of-line `mod` items and resolve `#[path =
+  "..."]`<br>
+  [\[Origin\]][expand0-origin] -- [\[Design\]][expand0-design]
+
+[expand0-origin]: https://github.com/dpc/crev/issues/89
+[expand0-design]: https://github.com/dtolnay/request-for-implementation/issues/6
