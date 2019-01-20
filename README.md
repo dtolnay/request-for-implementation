@@ -138,3 +138,11 @@ Library to inline out-of-line <code>mod</code> items and resolve <code>#[path =
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/6">[Design]</a>
 </td></tr></table>
+
+<table><tr><td><ul><li></li></ul></td><td>
+Procedural macro reimplementation of
+<a href="https://github.com/dtolnay/quote"><code>quote!</code></a>
+to resolve some longstanding limitations
+<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/8">[Design]</a>
+</td></tr></table>
