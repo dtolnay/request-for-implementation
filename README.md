@@ -169,6 +169,12 @@ to resolve some longstanding limitations
 <a href="https://github.com/dtolnay/request-for-implementation/issues/8">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Attribute macro to make a trait boxed clonable
+<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/13">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="visualization"></a>
