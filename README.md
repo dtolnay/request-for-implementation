@@ -139,6 +139,12 @@ Miniserde utilities library, like adapters for Display and FromStr
 <a href="https://github.com/dtolnay/request-for-implementation/issues/11">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Macro to serialize and deserialize trait object using internal type tag
+<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/14">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="procedural-macros"></a>
