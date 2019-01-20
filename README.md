@@ -55,6 +55,19 @@ when a library has accomplished that design.
 
 <a name="the-list"></a>
 
+<!--
+TEMPLATE:
+
+<table><tr><td><ul><li></li></ul></td><td>
+description description description description description description
+<br>
+<a href="...">[Origin]</a>
+—
+<a href="...">[Design]</a>
+</td></tr></table>
+
+-->
+
 # Command line
 
 <table><tr><td><ul><li></li></ul></td><td>
