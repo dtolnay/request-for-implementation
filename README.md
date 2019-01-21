@@ -150,6 +150,13 @@ type<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/17">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Attribute macro to skip serializing all fields of Option type<br>
+<a href="https://github.com/serde-rs/serde/issues/947">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/18">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="procedural-macros"></a>
