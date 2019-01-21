@@ -174,6 +174,13 @@ Attribute macro to make a trait boxed clonable<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/13">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Library for parsing function signature without parsing function body<br>
+<a href="https://github.com/dtolnay/syn/issues/467">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/16">[Design]</a>
+</td></tr></table>
+
 <br>
 
 <a name="visualization"></a>
