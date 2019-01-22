@@ -107,7 +107,7 @@ autotrait behavior<br>
 # [:bullettrain\_side:&ensp;De/serialization](#de-serialization)
 
 <table><tr><td><ul><li></li></ul></td><td>
-A <code>dtd</code> macro that you could point at an
+A dtd macro that you could point at an
 <a href="https://en.wikipedia.org/wiki/Document_type_definition">XML DTD file</a>
 and have it generate struct definitions for you<br>
 <a href="https://twitter.com/chriskrycho/status/1085537088647249920">[Origin]</a>
@@ -195,8 +195,7 @@ Query syntax and extractor for syntax tree elements<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Library to inline out-of-line <code>mod</code> items and resolve <code>#[path =
-"..."]</code><br>
+Library to inline out-of-line mod items and resolve #[path = "..."]<br>
 <a href="https://github.com/dpc/crev/issues/89">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/6">[Design]</a>
@@ -204,7 +203,7 @@ Library to inline out-of-line <code>mod</code> items and resolve <code>#[path =
 
 <table><tr><td><ul><li></li></ul></td><td>
 Procedural macro reimplementation of
-<a href="https://github.com/dtolnay/quote"><code>quote!</code></a>
+<a href="https://github.com/dtolnay/quote">quote!</a>
 to resolve some longstanding limitations<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/8">[Design]</a>
 </td></tr></table>
