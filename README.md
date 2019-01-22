@@ -36,6 +36,12 @@ on the design thread, but this is not a requirement. Fortunately [IRC] and
 [Reddit] and [Discord] and [Discourse] and [Slack] are all friendly and will be
 able to help you out -- take your pick if you get stuck.
 
+If you are interested in providing mentorship to people working through a
+project idea, subscribe to individual design threads or "Watch" the whole repo
+([here][subscription]) to follow all the threads.
+
+[subscription]: https://github.com/dtolnay/request-for-implementation/subscription
+
 <br>
 
 ### Relationship to Not-Yet-Awesome Rust
