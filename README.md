@@ -90,6 +90,19 @@ Cargo subcommand to perform pluggable expansions against rustdoc<br>
 
 <br>
 
+<a name="data-structures"></a>
+# [:articulated_lorry: Data structures](#data-structures)
+
+<table><tr><td><ul><li></li></ul></td><td>
+Library for writing const-compatible phantom types with explicit variance and
+autotrait behavior<br>
+<a href="https://github.com/rust-lang/rust/pull/57682#pullrequestreview-193857577">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/21">[Design]</a>
+</td></tr></table>
+
+<br>
+
 <a name="de-serialization"></a>
 # [:bullettrain_side: De/serialization](#de-serialization)
 
