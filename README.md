@@ -13,7 +13,7 @@ Ideas should result in their own useful library, even if that is just a few
 functions. Ideas for which the code would go in some existing project should be
 filed on that project's issue tracker rather than being listed here.
 
-Many of these would make neat projects for a Rust novice.
+Many of these would make neat projects for a Rust beginner.
 
 <br>
 
@@ -26,6 +26,15 @@ To add a project idea, please file an issue with enough detail so that anyone
 interested can understand the design you have in mind. Include links to relevant
 background material if possible. Then send a PR adding a link to your issue.
 Feel free to add a new heading if none of the existing ones apply to your idea.
+
+<br>
+
+### Getting help
+
+For some ideas the person who posted them may be available to provide mentorship
+on the design thread, but this is not a requirement. Fortunately [IRC] and
+[Reddit] and [Discord] and [Discourse] and [Slack] are all friendly and will be
+able to help you out -- take your pick if you get stuck.
 
 <br>
 
