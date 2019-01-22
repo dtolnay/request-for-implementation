@@ -1,7 +1,7 @@
 Crates that don't exist, but should
 ===================================
 
-A collection of [Rust] project ideas.&emsp;[<i><b>&gt;</b>Skip the introduction
+A collection of Rust project ideas.&emsp;[<i><b>&gt;</b>Skip the introduction
 and jump to the list<b>&lt;</b></i>](#the-list)
 
 These are bite-sized ideas for which someone already has a mostly clear design
@@ -14,8 +14,6 @@ functions. Ideas for which the code would go in some existing project should be
 filed on that project's issue tracker rather than being listed here.
 
 Many of these would make neat projects for a Rust novice.
-
-[Rust]: https://www.rust-lang.org/
 
 <br>
 
