@@ -1,8 +1,8 @@
 Crates that don't exist, but should
 ===================================
 
-A collection of [Rust] project ideas.
-[*Skip the introduction and jump to the list*](#the-list)
+A collection of [Rust] project ideas.&emsp;[<i><b>&gt;</b>Skip the introduction
+and jump to the list<b>&lt;</b></i>](#the-list)
 
 These are bite-sized ideas for which someone already has a mostly clear design
 in mind. They are waiting on an interested library developer to carry through
