@@ -50,9 +50,8 @@ project idea, subscribe to individual design threads or "Watch" the whole repo
 
 ### Relationship to Not-Yet-Awesome Rust
 
-The [not-yet-awesome] list is similarly a catalog of project ideas, but appears
-to be geared toward relatively broad problem spaces that are not well addressed
-by the Rust library ecosystem. Some examples from their list:
+The [not-yet-awesome] list is similarly a catalog of project ideas, but the
+scope is much broader than the one here. Some examples from their list:
 
 - A stream processing pipeline with back pressure for asynchronous processing;
 - A deep learning toolkit with GPU support;
@@ -62,9 +61,14 @@ These are things that will involve a significant amount of design work, feedback
 from multiple stakeholders, a responsive and dedicated maintainer or team, and
 likely months to years of bake time before they would be considered awesome.
 
+Their list does include some smaller project ideas too but very few of them come
+with a thought-out design that someone could get started implementing
+immediately.
+
 In contrast, the Request For Implementation list is intended for ideas where a
-design mostly already exists and can be concisely described. It should be clear
-when a library has accomplished that design.
+design mostly already exists and can be concisely described. It should be ready
+for someone to dive straight into code and it should be clear when a library has
+accomplished the intended design.
 
 [not-yet-awesome]: https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
 
