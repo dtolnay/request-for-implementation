@@ -91,7 +91,7 @@ Cargo subcommand to perform pluggable expansions against rustdoc<br>
 <br>
 
 <a name="data-structures"></a>
-# [:articulated_lorry:&ensp;Data structures](#data-structures)
+# [:articulated\_lorry:&ensp;Data structures](#data-structures)
 
 <table><tr><td><ul><li></li></ul></td><td>
 Library for writing const-compatible phantom types with explicit variance and
@@ -104,7 +104,7 @@ autotrait behavior<br>
 <br>
 
 <a name="de-serialization"></a>
-# [:bullettrain_side:&ensp;De/serialization](#de-serialization)
+# [:bullettrain\_side:&ensp;De/serialization](#de-serialization)
 
 <table><tr><td><ul><li></li></ul></td><td>
 A <code>dtd</code> macro that you could point at an
@@ -185,7 +185,7 @@ Attribute macro to apply prefix to name of serialized fields or variants<br>
 <br>
 
 <a name="procedural-macros"></a>
-# [:steam_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
+# [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
 Query syntax and extractor for syntax tree elements<br>
@@ -224,7 +224,7 @@ Library for parsing function signature without parsing function body<br>
 <br>
 
 <a name="visualization"></a>
-# [:mountain_cableway:&ensp;Visualization](#visualization)
+# [:mountain\_cableway:&ensp;Visualization](#visualization)
 
 <table><tr><td><ul><li></li></ul></td><td>
 Minimal API for generating color scheme for a chart that needs <i>n</i>
