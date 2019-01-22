@@ -32,9 +32,13 @@ Feel free to add a new heading if none of the existing ones apply to your idea.
 ### Getting help
 
 For some ideas the person who posted them may be available to provide mentorship
-on the design thread, but this is not a requirement. Fortunately [IRC] and
-[Reddit] and [Discord] and [Discourse] and [Slack] are all friendly and will be
-able to help you out -- take your pick if you get stuck.
+on the design thread, but this is not a requirement. If you find yourself stuck,
+swing by the [Rust Users] forum or the [Rust Discord] chat channel. Explain what
+you are working on and where you got stuck, and they will be able to help you
+out.
+
+[Rust Users]: https://users.rust-lang.org/
+[Rust Discord]: https://discord.gg/rust-lang
 
 If you are interested in providing mentorship to people working through a
 project idea, subscribe to individual design threads or "Watch" the whole repo
