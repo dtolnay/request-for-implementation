@@ -64,9 +64,7 @@ when a library has accomplished that design.
 
 [not-yet-awesome]: https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
 
-<br><br>
-
-<a name="the-list"></a>
+<br><a name="the-list"></a><br>
 
 <!--
 TEMPLATE:
