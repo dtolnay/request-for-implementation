@@ -175,11 +175,6 @@ Miniserde utilities library, like adapters for Display and FromStr<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Macro to serialize and deserialize trait object using internal type tag<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/14">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Attribute macro to generate de/serialization functions for fields of big array
 type<br>
 <a href="https://github.com/serde-rs/serde/issues/631">[Origin]</a>
@@ -200,6 +195,17 @@ Attribute macro to apply prefix to name of serialized fields or variants<br>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/19">[Design]</a>
 </td></tr></table>
+
+**Completed ideas:**
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Macro to serialize and deserialize trait object using internal type tag<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/14">[Design]</a>
+—
+<a href="https://github.com/dtolnay/typetag">[Outcome]</a>
+</td></tr></table>
+</blockquote>
 
 <br>
 
