@@ -196,6 +196,13 @@ Attribute macro to apply prefix to name of serialized fields or variants<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/19">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
+<a href="https://github.com/serde-rs/json/pull/514">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/24">[Design]</a>
+</td></tr></table>
+
 **Completed ideas:**
 
 <blockquote>
