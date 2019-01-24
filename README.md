@@ -268,12 +268,18 @@ Attribute macro to make a trait boxed clonable<br>
 <a name="visualization"></a>
 # [:mountain\_cableway:&ensp;Visualization](#visualization)
 
+**Completed ideas:**
+
+<blockquote>
 <table><tr><td><ul><li></li></ul></td><td>
 Minimal API for generating color scheme for a chart that needs <i>n</i>
 colors<br>
 <a href="https://github.com/dtolnay/cargo-tally/issues/10">[Origin]</a>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/12">[Design]</a>
+—
+<a href="https://github.com/BrandtM/colourado">[Outcome]</a>
 </td></tr></table>
+</blockquote>
 
 <br>
