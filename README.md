@@ -142,13 +142,6 @@ Derive macros to serialize and deserialize struct as an array of values<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Derive macro to derive Default from Serde default attributes<br>
-<a href="https://github.com/serde-rs/serde/issues/1416">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/4">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Serde format for in situ JSON deserialization<br>
 <a href="https://github.com/serde-rs/json/issues/318">[Origin]</a>
 —
@@ -211,6 +204,17 @@ Macro to serialize and deserialize trait object using internal type tag<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/14">[Design]</a>
 —
 <a href="https://github.com/dtolnay/typetag">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Derive macro to derive Default from Serde default attributes<br>
+<a href="https://github.com/serde-rs/serde/issues/1416">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/4">[Design]</a>
+—
+<a href="https://github.com/TedDriggs/serde_default">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
