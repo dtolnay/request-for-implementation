@@ -90,12 +90,6 @@ description description description description description description<br>
 # [:tractor:&ensp;Command line](#command-line)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Library for a Cargo subcommand to find components installed under a different
-toolchain<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/5">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Library to format and paginate tabular output<br>
 <a href="https://github.com/dtolnay/cargo-llvm-lines/issues/5">[Origin]</a>
 —
@@ -106,6 +100,18 @@ Library to format and paginate tabular output<br>
 Cargo subcommand to perform pluggable expansions against rustdoc<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/20">[Design]</a>
 </td></tr></table>
+
+**Completed ideas:**
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Library for a Cargo subcommand to find components installed under a different
+toolchain<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/5">[Design]</a>
+—
+<a href="https://github.com/gsquire/toolchain_find">[Outcome]</a>
+</td></tr></table>
+</blockquote>
 
 <br>
 
