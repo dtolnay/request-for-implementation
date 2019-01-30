@@ -236,13 +236,6 @@ Derive macro to derive Default from Serde default attributes<br>
 # [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Query syntax and extractor for syntax tree elements<br>
-<a href="https://github.com/dtolnay/cargo-expand/issues/8">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/1">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Library to inline out-of-line mod items and resolve #[path = "..."]<br>
 <a href="https://github.com/dpc/crev/issues/89">[Origin]</a>
 —
@@ -262,6 +255,17 @@ Derive macro for computing total memory occupied by a data structure<br>
 </td></tr></table>
 
 **Completed ideas:**
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Query syntax and extractor for syntax tree elements<br>
+<a href="https://github.com/dtolnay/cargo-expand/issues/8">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/1">[Design]</a>
+—
+<a href="https://github.com/TedDriggs/syn-select">[Outcome]</a>
+</td></tr></table>
+</blockquote>
 
 <blockquote>
 <table><tr><td><ul><li></li></ul></td><td>
