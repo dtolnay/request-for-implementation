@@ -250,13 +250,6 @@ Library to inline out-of-line mod items and resolve #[path = "..."]<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Procedural macro reimplementation of
-<a href="https://github.com/dtolnay/quote">quote!</a>
-to resolve some longstanding limitations<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/8">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Library for parsing function signature without parsing function body<br>
 <a href="https://github.com/dtolnay/syn/issues/467">[Origin]</a>
 —
@@ -276,6 +269,17 @@ Attribute macro to make a trait boxed clonable<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/13">[Design]</a>
 —
 <a href="https://github.com/kardeiz/objekt-clonable">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Procedural macro reimplementation of
+<a href="https://github.com/dtolnay/quote">quote!</a>
+to resolve some longstanding limitations<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/8">[Design]</a>
+—
+<a href="https://github.com/Goncalerta/proc-quote">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
