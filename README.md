@@ -239,6 +239,11 @@ Derive macros to serialize and deserialize struct as an array of values<br>
 <a name="procedural-macros"></a>
 # [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
+<table><tr><td><ul><li></li></ul></td><td>
+Library to serialize and deserialize Syn syntax trees<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/25">[Design]</a>
+</td></tr></table>
+
 **Completed ideas:**
 
 <blockquote>
