@@ -239,11 +239,6 @@ Derive macros to serialize and deserialize struct as an array of values<br>
 <a name="procedural-macros"></a>
 # [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
-<table><tr><td><ul><li></li></ul></td><td>
-Derive macro for computing total memory occupied by a data structure<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/22">[Design]</a>
-</td></tr></table>
-
 **Completed ideas:**
 
 <blockquote>
@@ -296,6 +291,15 @@ Library for parsing function signature without parsing function body<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/16">[Design]</a>
 —
 <a href="https://github.com/taiki-e/syn-mid">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Derive macro for computing total memory occupied by a data structure<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/22">[Design]</a>
+—
+<a href="https://github.com/Aeledfyr/deepsize">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
