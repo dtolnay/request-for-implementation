@@ -256,6 +256,11 @@ Library to serialize and deserialize Syn syntax trees<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/25">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Testing tool for comparing output of macro against expected source code<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/28">[Design]</a>
+</td></tr></table>
+
 **Completed ideas:**
 
 <blockquote>
