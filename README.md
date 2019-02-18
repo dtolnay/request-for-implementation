@@ -206,13 +206,6 @@ Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/24">[Design]</a>
 </td></tr></table>
 
-<table><tr><td><ul><li></li></ul></td><td>
-Derive macro to compute Bincode size of type<br>
-<a href="https://github.com/TyOverby/bincode/issues/263">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/26">[Design]</a>
-</td></tr></table>
-
 **Completed ideas:**
 
 <blockquote>
@@ -243,6 +236,17 @@ Derive macros to serialize and deserialize struct as an array of values<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/3">[Design]</a>
 —
 <a href="https://github.com/kardeiz/serde_tuple">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Derive macro to compute Bincode size of type<br>
+<a href="https://github.com/TyOverby/bincode/issues/263">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/26">[Design]</a>
+—
+<a href="https://github.com/jrmuizel/bincode-size">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
