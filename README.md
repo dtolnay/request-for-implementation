@@ -118,11 +118,6 @@ toolchain<br>
 <a name="data-structures"></a>
 # [:articulated\_lorry:&ensp;Data structures](#data-structures)
 
-<table><tr><td><ul><li></li></ul></td><td>
-Types for checked arithmetic on instants and durations<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/27">[Design]</a>
-</td></tr></table>
-
 **Completed ideas:**
 
 <blockquote>
@@ -134,6 +129,15 @@ autotrait behavior<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/21">[Design]</a>
 —
 <a href="https://github.com/djmcgill/rich_phantoms">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Types for checked arithmetic on instants and durations<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/27">[Design]</a>
+—
+<a href="https://github.com/taiki-e/easytime">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
