@@ -90,13 +90,6 @@ description description description description description description<br>
 # [:tractor:&ensp;Command line](#command-line)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Library to format and paginate tabular output<br>
-<a href="https://github.com/dtolnay/cargo-llvm-lines/issues/5">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/15">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Cargo subcommand to perform pluggable expansions against rustdoc<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/20">[Design]</a>
 </td></tr></table>
