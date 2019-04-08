@@ -94,6 +94,11 @@ Cargo subcommand to perform pluggable expansions against rustdoc<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/20">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Tool to enforce that Cargo.toml dependencies are written in sorted order<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/29">[Design]</a>
+</td></tr></table>
+
 **Completed ideas:**
 
 <blockquote>
