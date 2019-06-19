@@ -188,13 +188,6 @@ type<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Attribute macro to skip serializing all fields of Option type<br>
-<a href="https://github.com/serde-rs/serde/issues/947">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/18">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Attribute macro to apply prefix to name of serialized fields or variants<br>
 <a href="https://github.com/serde-rs/serde/pull/1426">[Origin]</a>
 —
@@ -216,6 +209,17 @@ Macro to serialize and deserialize trait object using internal type tag<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/14">[Design]</a>
 —
 <a href="https://github.com/dtolnay/typetag">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Attribute macro to skip serializing all fields of Option type<br>
+<a href="https://github.com/serde-rs/serde/issues/947">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/18">[Design]</a>
+- 
+<a href="https://github.com/jonasbb/serde_with/pull/46">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
