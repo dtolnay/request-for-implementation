@@ -219,7 +219,7 @@ Attribute macro to skip serializing all fields of Option type<br>
 —
 <a href="https://github.com/dtolnay/request-for-implementation/issues/18">[Design]</a>
 - 
-<a href="https://github.com/jonasbb/serde_with/pull/46">[Outcome]</a>
+<a href="https://docs.rs/serde_with_macros/1.0/serde_with_macros/attr.skip_serializing_none.html">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
