@@ -188,13 +188,6 @@ type<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Attribute macro to apply prefix to name of serialized fields or variants<br>
-<a href="https://github.com/serde-rs/serde/pull/1426">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/19">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
 <a href="https://github.com/serde-rs/json/pull/514">[Origin]</a>
 —
@@ -253,6 +246,17 @@ Derive macro to compute Bincode size of type<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/26">[Design]</a>
 —
 <a href="https://github.com/jrmuizel/bincode-size">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Attribute macro to apply prefix to name of serialized fields or variants<br>
+<a href="https://github.com/serde-rs/serde/pull/1426">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/19">[Design]</a>
+—
+<a href="https://github.com/jonathan-s/serde-prefix">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
