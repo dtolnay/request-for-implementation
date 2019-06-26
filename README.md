@@ -90,6 +90,11 @@ description description description description description description<br>
 # [:tractor:&ensp;Command line](#command-line)
 
 <table><tr><td><ul><li></li></ul></td><td>
+Tool to streamline running public crate examples<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/30">[Design]</a>
+</td></tr></table>
+
+<table><tr><td><ul><li></li></ul></td><td>
 Cargo subcommand to perform pluggable expansions against rustdoc<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/20">[Design]</a>
 </td></tr></table>
