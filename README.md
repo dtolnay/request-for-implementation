@@ -99,6 +99,11 @@ Tool to enforce that Cargo.toml dependencies are written in sorted order<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/29">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Tool to streamline running public crate examples<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/30">[Design]</a>
+</td></tr></table>
+
 **Completed ideas:**
 
 <blockquote>
