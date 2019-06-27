@@ -118,6 +118,19 @@ toolchain<br>
 
 <br>
 
+<a name="cross-platform"></a>
+# [:helicopter:&ensp;Cross platform](#cross-platform)
+
+<table><tr><td><ul><li></li></ul></td><td>
+Functions for normalizing and joining paths with consideration for UNC on
+Windows<br>
+<a href="https://github.com/rust-lang/cargo/issues/6198">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/34">[Design]</a>
+</td></tr></table>
+
+<br>
+
 <a name="data-structures"></a>
 # [:articulated\_lorry:&ensp;Data structures](#data-structures)
 
