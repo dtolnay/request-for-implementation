@@ -205,13 +205,6 @@ type<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/17">[Design]</a>
 </td></tr></table>
 
-<table><tr><td><ul><li></li></ul></td><td>
-Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
-<a href="https://github.com/serde-rs/json/pull/514">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/24">[Design]</a>
-</td></tr></table>
-
 **Completed ideas:**
 
 <blockquote>
@@ -275,6 +268,17 @@ Attribute macro to apply prefix to name of serialized fields or variants<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/19">[Design]</a>
 —
 <a href="https://github.com/jonathan-s/serde-prefix">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
+<a href="https://github.com/serde-rs/json/pull/514">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/24">[Design]</a>
+—
+<a href="https://crates.io/crates/json_comments">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
