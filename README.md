@@ -95,11 +95,6 @@ Cargo subcommand to perform pluggable expansions against rustdoc<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Tool to enforce that Cargo.toml dependencies are written in sorted order<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/29">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Tool to streamline running public crate examples<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/30">[Design]</a>
 </td></tr></table>
@@ -113,6 +108,15 @@ toolchain<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/5">[Design]</a>
 —
 <a href="https://github.com/gsquire/toolchain_find">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Tool to enforce that Cargo.toml dependencies are written in sorted order<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/29">[Design]</a>
+—
+<a href="https://github.com/DevinR528/cargo-sort-ck">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
