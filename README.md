@@ -301,6 +301,11 @@ Testing tool for comparing output of macro against expected source code<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/28">[Design]</a>
 </td></tr></table>
 
+<table><tr><td><ul><li></li></ul></td><td>
+Library + tool to list all source files of a crate<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/38">[Design]</a>
+</td></tr></table>
+
 **Completed ideas:**
 
 <blockquote>
