@@ -292,11 +292,6 @@ Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
 # [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Library to serialize and deserialize Syn syntax trees<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/25">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Testing tool for comparing output of macro against expected source code<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/28">[Design]</a>
 </td></tr></table>
@@ -367,6 +362,15 @@ Derive macro for computing total memory occupied by a data structure<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/22">[Design]</a>
 —
 <a href="https://github.com/Aeledfyr/deepsize">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Library to serialize and deserialize Syn syntax trees<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/25">[Design]</a>
+—
+<a href="https://github.com/taiki-e/syn-serde">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
