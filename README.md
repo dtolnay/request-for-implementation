@@ -292,6 +292,11 @@ Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
 # [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
+Macro for easily using local extension traits<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/43">[Design]</a>
+</td></tr></table>
+
+<table><tr><td><ul><li></li></ul></td><td>
 Testing tool for comparing output of macro against expected source code<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/28">[Design]</a>
 </td></tr></table>
