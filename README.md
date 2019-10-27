@@ -190,11 +190,6 @@ Minimalist YAML parser with support for borrowed string slices<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Miniserde derive macro that supports enums<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/10">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Miniserde utilities library, like adapters for Display and FromStr<br>
 <a href="https://github.com/dtolnay/miniserde/issues/3">[Origin]</a>
 —
@@ -283,6 +278,15 @@ Wrapper to strip pseudo-JSON comments from an io::Read input stream<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/24">[Design]</a>
 —
 <a href="https://crates.io/crates/json_comments">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Miniserde derive macro that supports enums<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/10">[Design]</a>
+—
+<a href="https://github.com/eupn/miniserde-derive-enum">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
