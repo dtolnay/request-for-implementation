@@ -301,11 +301,6 @@ Macro for easily using local extension traits<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Testing tool for comparing output of macro against expected source code<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/28">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Library + tool to list all source files of a crate<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/38">[Design]</a>
 </td></tr></table>
@@ -380,6 +375,15 @@ Library to serialize and deserialize Syn syntax trees<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/25">[Design]</a>
 —
 <a href="https://github.com/taiki-e/syn-serde">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Testing tool for comparing output of macro against expected source code<br>
+<a href="https://github.com/dtolnay/request-for-implementation/issues/28">[Design]</a>
+—
+<a href="https://github.com/eupn/macrotest">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
