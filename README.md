@@ -296,11 +296,6 @@ Miniserde derive macro that supports enums<br>
 # [:steam\_locomotive:&ensp;Procedural macros, Syn](#procedural-macros)
 
 <table><tr><td><ul><li></li></ul></td><td>
-Macro for easily using local extension traits<br>
-<a href="https://github.com/dtolnay/request-for-implementation/issues/43">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Library + tool to list all source files of a crate<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/38">[Design]</a>
 </td></tr></table>
