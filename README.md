@@ -180,13 +180,6 @@ and have it generate struct definitions for you<br>
 </td></tr></table>
 
 <table><tr><td><ul><li></li></ul></td><td>
-Data format adapter to expose control over the representation of bytes<br>
-<a href="https://github.com/serde-rs/json/pull/656">[Origin]</a>
-—
-<a href="https://github.com/dtolnay/request-for-implementation/issues/48">[Design]</a>
-</td></tr></table>
-
-<table><tr><td><ul><li></li></ul></td><td>
 Serde format for in situ JSON deserialization<br>
 <a href="https://github.com/serde-rs/json/issues/318">[Origin]</a>
 —
@@ -298,6 +291,17 @@ Miniserde derive macro that supports enums<br>
 <a href="https://github.com/dtolnay/request-for-implementation/issues/10">[Design]</a>
 —
 <a href="https://github.com/eupn/miniserde-derive-enum">[Outcome]</a>
+</td></tr></table>
+</blockquote>
+
+<blockquote>
+<table><tr><td><ul><li></li></ul></td><td>
+Data format adapter to expose control over the representation of bytes<br>
+<a href="https://github.com/serde-rs/json/pull/656">[Origin]</a>
+—
+<a href="https://github.com/dtolnay/request-for-implementation/issues/48">[Design]</a>
+—
+<a href="https://github.com/cfsamson/rfi-serde-byte-repr">[Outcome]</a>
 </td></tr></table>
 </blockquote>
 
